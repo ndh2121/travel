@@ -12,17 +12,17 @@ const servicesData = [
     {
         imgUrl: weatherImg,
         title: "Calculate Weather",
-        desc: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perferendis, aliquid!"
+        desc: "Lorem ipsum, dolor sit amet. Perferendis, aliquid!"
     },
     {
         imgUrl: guideImg,
         title: "Best Tour Guide",
-        desc: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perferendis, aliquid!"
+        desc: "Lorem ipsum, dolor sit amet "
     },
     {
         imgUrl: customizationImg,
         title: "Customization",
-        desc: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perferendis, aliquid!"
+        desc: "Lorem ipsum, dolor sit amet consectetur adipisicing elit"
     }
 ]
 
